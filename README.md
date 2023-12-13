@@ -1,8 +1,3 @@
-##ddgh
-![pos](https://github.com/mohamedmagdy233/ecommerce/assets/97023312/a15b7917-6d8f-461a-81ab-2aca9c22c278)
-
-
-
 <p align="center"><a href="https://laravel.com" target="_blank"><img src="https://raw.githubusercontent.com/laravel/art/master/logo-lockup/5%20SVG/2%20CMYK/1%20Full%20Color/laravel-logolockup-cmyk-red.svg" width="400"></a></p>
 
 <p align="center">
